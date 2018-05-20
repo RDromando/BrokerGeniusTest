@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Your 1st random number is: " +getRandomNumber1(1,75));
+        System.out.println("Your 1st random number is: " +getRandomNumber1(1,76));
         System.out.println("Your 2nd random number is: " +getRandomNumber2(1,75));
         System.out.println("Your 3rd random number is: " +getRandomNumber3(1,75));
 
