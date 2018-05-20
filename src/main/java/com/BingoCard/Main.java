@@ -54,6 +54,7 @@ public class Main {
         bingoCard[2][2] = 0;
 
         System.out.println(Arrays.deepToString(bingoCard));
+        System.out.println("BrokerGenius");
 
     }
 
